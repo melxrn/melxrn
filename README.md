@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mel</h1>
 <h3 align="center">A passionate student, studying about cyber security.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melxrn&label=Profile%20views&color=0e75b6&style=flat" alt="melxrn" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/melxrn" target="blank"><img src="https://img.shields.io/twitter/follow/melxrn?logo=twitter&style=for-the-badge" alt="melxrn" /></a> </p>
 
