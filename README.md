@@ -23,6 +23,7 @@ me.say_hi()
 
 **Programming Languages:**
 
-![Java](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
+
 
